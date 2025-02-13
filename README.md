@@ -3,7 +3,7 @@ RSA forgery signature attack based on the bleichenbacher algorithm
 
 PROJECT OVERVIEW 
 -------------------------
-This project is a proof-of-concept of the forgery signature attack on RSA cryptosystem. Presented by D. Bleichenbacher in 2006, I based my work also on this paper "Extending Bleichenbacher’s Forgery Attack" presented by Tetsuya Izu, Takeshi Shimoyama and Masahiko Takenaka.
+This project is a proof-of-concept of the forgery signature attack on RSA cryptosystem. Presented by D. Bleichenbacher in 2006, I based my work also on this paper "Extending Bleichenbacher’s Forgery Attack" presented by Tetsuya Izu, Takeshi Shimoyama and Masahiko Takenaka.  
 **It is for educational purpose only and must not be used to perpetrate real attacks.**  
 The script presented here uses the SHA256 algorithm and a public RSA exponenent e=3.
 
